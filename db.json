@@ -1,0 +1,30 @@
+{
+  "users":[
+  {"id":1,"account":"jsmith","email":"jsmiths@gmail.com","firstName":"John","lastName":"Smith","occupation":"Geographer"},
+  {"id":2,"account":"alcarr","email":"alcarr@gmail.com","firstName":"Alex","lastName":"Carr","occupation":"Writer"},
+  {"id":3,"account":"zemelya777","email":"dzemtsov@mail.ru","firstName":"Dmitry","lastName":"Zemtsov","occupation":"Software Engineer"},
+  {"id":4,"account":"jango","email":"jango@yahoo.com","firstName":"Jango","lastName":"","occupation":"Pathfinder"},
+  {"id":5,"account":"zupab","email":"zupabbb@gmail.com","firstName":"Boris","lastName":"Zupa","occupation":"Project Manager"},
+  {"id":6,"account":"ivanivan","email":"ivangalaxy@yandex.ru","firstName":"Ivan","lastName":"Ivanov","occupation":"Astronomer"}
+  ],
+  "albums": [
+  {"id":1,"user":null,"userId":1,"albumName":"Peoples of Africa","description":"description of the peoples inhabiting the African continent"},
+  {"id":2,"user":null,"userId":1,"albumName":"Animals of South America","description":"overview of the fauna of the South American continent"},
+  {"id":3,"user":null,"userId":1,"albumName":"World Ocean","description":"world ocean and its significance for the planet earth"},
+  {"id":4,"user":null,"userId":2,"albumName":"Bestsellers of 1980s","description":"best novels written in the 80s"},
+  {"id":5,"user":null,"userId":2,"albumName":"Modern writers","description":"portrait of a modern writer"},
+  {"id":6,"user":null,"userId":2,"albumName":"Golden age","description":"golden age in literature"},
+  {"id":7,"user":null,"userId":3,"albumName":"Design Patterns","description":"theory and practice of design patterns"},
+  {"id":8,"user":null,"userId":3,"albumName":"OOP","description":"Objective-oriented programming"},
+  {"id":9,"user":null,"userId":3,"albumName":"ASP.NET Core","description":"ASP.NET Core framework and its best practices"},
+  {"id":10,"user":null,"userId":4,"albumName":"Animal Trails","description":"Photos of animal trails and with description"},
+  {"id":11,"user":null,"userId":4,"albumName":"Best photos","description":"Best photos of nature"},
+  {"id":12,"user":null,"userId":4,"albumName":"Maps of Australia","description":"Detailed maps of Australia"},
+  {"id":13,"user":null,"userId":5,"albumName":"SCRUM","description":"SCRUM Metodology and its best practices"},
+  {"id":14,"user":null,"userId":5,"albumName":"Canban","description":"Canban Metodology and its best practices"},
+  {"id":15,"user":null,"userId":5,"albumName":"Best cases","description":"Interesting project management cases"},
+  {"id":16,"user":null,"userId":6,"albumName":"Black holes","description":"Theory of black holes"},
+  {"id":17,"user":null,"userId":6,"albumName":"Saturn rings","description":"results of observations of the rings of Saturn"},
+  {"id":18,"user":null,"userId":6,"albumName":"Best photos","description":"Best space photos"}
+  ]
+}
